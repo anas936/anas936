@@ -14,8 +14,8 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/anas-waleed-088390216" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:anaswaleed300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/anas-waleed-088390216" target="_blank"><img src="https://img.shields.io/badge/-Anas%20Waleed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:anaswaleed300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Anas%20Waleed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anas-waleed-088390216/?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)](https://www.linkedin.com/in/anas-waleed-088390216/?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
