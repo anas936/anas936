@@ -15,7 +15,7 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/anas-waleed-088390216" target="_blank"><img src="https://img.shields.io/badge/-Anas%20Waleed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:anaswaleed300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Anas%20Waleed-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:anaswaleed300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Anas%20Waleed-#b5001d?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anaswaleed300@gmail.com)](mailto:anaswaleed300@gmail.com)
 
 
