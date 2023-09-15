@@ -20,8 +20,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anas-waleed-088390216/?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)](https://www.linkedin.com/in/anas-waleed-088390216/?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
 
-<!-- ### 🔗 Links
-<a href="mailto:anaswaleed300@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
 
 
