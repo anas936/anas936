@@ -5,6 +5,7 @@
 </h3>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="240">
 
+<img align="right" src="/alsiam/alsiam/raw/main/assets/programmer.gif" alt="Coding gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
