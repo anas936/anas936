@@ -6,7 +6,7 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="240">
 
- <img align="right" width="300" height="240" src="[/assets/programmer.gif](https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif)" alt="Coder GIF" />
+
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
